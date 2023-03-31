@@ -13,3 +13,11 @@ https://github.com/eryajf/chatgpt-dingtalk
 ```
 https://github.com/mkj/dropbear
 ```
+4.chatgpt-teams-bot
+```
+https://github.com/formulahendry/chatgpt-teams-bot
+```
+5.alertmanager teams
+```
+https://github.com/prometheus-msteams/prometheus-msteams
+```
