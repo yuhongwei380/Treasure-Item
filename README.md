@@ -21,3 +21,7 @@ https://github.com/formulahendry/chatgpt-teams-bot
 ```
 https://github.com/prometheus-msteams/prometheus-msteams
 ```
+6.一键免费部署你的私人 ChatGPT 网页应用。
+```
+https://github.com/Yidadaa/ChatGPT-Next-Web
+```
