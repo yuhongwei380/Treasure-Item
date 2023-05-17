@@ -25,3 +25,7 @@ https://github.com/prometheus-msteams/prometheus-msteams
 ```
 https://github.com/Yidadaa/ChatGPT-Next-Web
 ```
+7.FigmaChain 是一组基于 Figma 设计生成 HTML/CSS 代码的 Python 脚本。使用 OpenAI 的 GPT-3 模型，FigmaChain 使开发人员能够从 Figma 设计输入快速生成 HTML/CSS 代码。
+```
+https://github.com/cirediatpl/FigmaChain
+```
