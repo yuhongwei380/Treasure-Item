@@ -29,3 +29,7 @@ https://github.com/Yidadaa/ChatGPT-Next-Web
 ```
 https://github.com/cirediatpl/FigmaChain
 ```
+8.AzureAD-LDAP-wrapper 群晖上用来对接azure ad 认证的工具。可跳过MFA。
+```
+https://github.com/ahaenggli/AzureAD-LDAP-wrapper
+```
