@@ -33,3 +33,13 @@ https://github.com/cirediatpl/FigmaChain
 ```
 https://github.com/ahaenggli/AzureAD-LDAP-wrapper
 ```
+docs
+```
+https://ahaenggli.github.io/AzureAD-LDAP-wrapper/installation/create-azuread-application/
+```
+filter
+```
+https://learn.microsoft.com/en-us/graph/aad-advanced-queries?tabs=powershell   
+https://learn.microsoft.com/en-us/graph/filter-query-parameter?tabs=http
+```
+
