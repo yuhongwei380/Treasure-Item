@@ -43,3 +43,8 @@ https://learn.microsoft.com/en-us/graph/aad-advanced-queries?tabs=powershell
 https://learn.microsoft.com/en-us/graph/filter-query-parameter?tabs=http
 ```
 9.光猫G7615
+
+10.darktable 批量处理照片
+```
+https://github.com/darktable-org/darktable
+```
