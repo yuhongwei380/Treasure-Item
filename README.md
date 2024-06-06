@@ -48,3 +48,8 @@ https://learn.microsoft.com/en-us/graph/filter-query-parameter?tabs=http
 ```
 https://github.com/darktable-org/darktable
 ```
+
+11.ubuntu aad-auth
+```
+https://github.com/ubuntu/aad-auth
+```
