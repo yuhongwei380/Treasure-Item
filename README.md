@@ -58,3 +58,8 @@ https://github.com/ubuntu/aad-auth
 ```
 https://cmwtat.cloudmoe.com/cn.html
 ```
+
+13.freeradius oauth2 for microsoft365
+```
+https://github.com/jimdigriz/freeradius-oauth2-perl
+```
