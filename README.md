@@ -63,3 +63,7 @@ https://cmwtat.cloudmoe.com/cn.html
 ```
 https://github.com/jimdigriz/freeradius-oauth2-perl
 ```
+14.开源erp系统
+```
+https://github.com/frappe/erpnext
+```
