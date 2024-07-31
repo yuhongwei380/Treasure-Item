@@ -71,3 +71,7 @@ https://github.com/frappe/erpnext
 ```
 https://github.com/Baiyuetribe/paper2gui
 ```
+16.开源私有云搭建工具
+```
+https://github.com/openstack
+```
