@@ -67,3 +67,7 @@ https://github.com/jimdigriz/freeradius-oauth2-perl
 ```
 https://github.com/frappe/erpnext
 ```
+15.视频补帧等AI工具
+```
+https://github.com/Baiyuetribe/paper2gui
+```
