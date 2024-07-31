@@ -75,3 +75,7 @@ https://github.com/Baiyuetribe/paper2gui
 ```
 https://github.com/openstack
 ```
+17.immich开源NAS照片同步工具
+```
+https://github.com/immich-app/immich
+```
