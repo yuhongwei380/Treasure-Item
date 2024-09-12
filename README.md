@@ -79,3 +79,7 @@ https://github.com/openstack
 ```
 https://github.com/immich-app/immich
 ```
+18.Asahi Linux
+```
+macos turn to Linux
+```
