@@ -83,3 +83,7 @@ https://github.com/immich-app/immich
 ```
 macos turn to Linux
 ```
+19.Cleaner One Pro
+```
+https://www.trendmicro.com/en_us/forHome/products/cleaner-one-mac.html
+```
