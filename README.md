@@ -82,6 +82,7 @@ https://github.com/immich-app/immich
 18.Asahi Linux
 ```
 macos turn to Linux
+https://asahilinux.org/
 ```
 19.Cleaner One Pro
 ```
