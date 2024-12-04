@@ -105,6 +105,10 @@ https://github.com/zitadel/zitadel
 ```
 https://github.com/shuhanghang/cdn-auto-cert
 ```
+27.open-falcon
+```
+https://github.com/open-falcon/falcon-plus
+```
 27.keycloak-webhook
 ```
 https://github.com/cevheri/keycloak-custom-event-listener
