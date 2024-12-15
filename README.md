@@ -118,4 +118,11 @@ https://github.com/cevheri/keycloak-custom-event-listener
 ```
 https://github.com/keephq/keep
 ```
+29.telegram-web-keycloak-authenticator
+```
+https://github.com/rickispp/telegram-web-keycloak-authenticator
+```
+30.keycloakify
+```
+https://github.com/keycloakify/keycloakify
 ```
