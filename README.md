@@ -130,7 +130,10 @@ https://github.com/keycloakify/keycloakify
 ```
 https://github.com/lukin/keywind
 ```
-
+32.麒麟白皮书
+```
+https://www.yuque.com/kylinos/zj/vs2u5gw33yrfg200
+```
 
 
 
