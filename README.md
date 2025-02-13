@@ -138,6 +138,9 @@ https://www.yuque.com/kylinos/zj/vs2u5gw33yrfg200
 ```
 https://github.com/amir20/dozzle
 ```
-
+34.phoenix 开源ai观测平台
+```
+https://github.com/Arize-ai/phoenix
+```
 
 
