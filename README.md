@@ -142,5 +142,8 @@ https://github.com/amir20/dozzle
 ```
 https://github.com/Arize-ai/phoenix
 ```
-
+35.dockge一个美观、易用的 Docker Compose 管理平台
+```
+https://github.com/louislam/dockge
+```
 
