@@ -1,5 +1,8 @@
 # Treasure-Item
 本仓库主要用来收集一些宝藏项目
+```
+https://github.com/ladaapp/lada
+```
 
 OPENVAS 开源漏洞扫描工具
 ```
