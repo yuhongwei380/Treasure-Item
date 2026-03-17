@@ -7,6 +7,11 @@ https://github.com/ladaapp/lada
 chatwoot 开源网页客服
 ```
 https://github.com/chatwoot/chatwoot
+
+Nocobase开源、自托管、AI 驱动的无代码/低代码开发平台
+```
+```
+https://github.com/nocobase/nocobase
 ```
 
 OPENVAS 开源漏洞扫描工具
