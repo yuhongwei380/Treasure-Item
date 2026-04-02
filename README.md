@@ -4,6 +4,11 @@
 https://github.com/ladaapp/lada
 ```
 
+new api 开源的一个api平台
+```
+https://github.com/QuantumNous/new-api?tab=readme-ov-file
+```
+
 chatwoot 开源网页客服
 ```
 https://github.com/chatwoot/chatwoot
