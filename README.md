@@ -4,6 +4,11 @@
 https://github.com/ladaapp/lada
 ```
 
+AstrBot 是一个开源的一站式 Agentic 个人和群聊助手
+```
+https://github.com/AstrBotDevs/AstrBot
+```
+
 new api 开源的一个api平台
 ```
 https://github.com/QuantumNous/new-api?tab=readme-ov-file
