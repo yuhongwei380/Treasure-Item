@@ -4,6 +4,11 @@
 https://github.com/ladaapp/lada
 ```
 
+neko-master 一个开源、自部署的网络流量分析面板。适配Mihomo
+```
+https://github.com/foru17/neko-master
+```
+
 AstrBot 是一个开源的一站式 Agentic 个人和群聊助手
 ```
 https://github.com/AstrBotDevs/AstrBot
