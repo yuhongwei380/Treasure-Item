@@ -1,4 +1,6 @@
-TurboQuant+ (llama.cpp Fork) 使用指南TurboQuant+ 是一个针对 llama.cpp 的实验性增强分支，通过 TurboQuant (ICLR 2026) 技术实现 KV Cache 的高倍率压缩（3.8x - 6.4x），显著降低长文本推理时的显存压力。1. 编译安装首先克隆仓库并根据你的硬件环境进行编译：Bash# 1. 克隆仓库
+TurboQuant+ (llama.cpp Fork) 使用指南TurboQuant+ 是一个针对 llama.cpp 的实验性增强分支，通过 TurboQuant (ICLR 2026) 技术实现 KV Cache 的高倍率压缩（3.8x - 6.4x），显著降低长文本推理时的显存压力。1. 编译安装首先克隆仓库并根据你的硬件环境进行编译：
+Bash
+# 1. 克隆仓库
 git clone https://github.com/TheTom/turboquant_plus.git
 cd turboquant_plus
 
