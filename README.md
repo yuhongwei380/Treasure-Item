@@ -4,6 +4,12 @@
 https://github.com/ladaapp/lada
 ```
 
+轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。
+```
+https://github.com/likaia/nginxpulse
+```
+
+
 neko-master 一个开源、自部署的网络流量分析面板。适配Mihomo
 ```
 https://github.com/foru17/neko-master
