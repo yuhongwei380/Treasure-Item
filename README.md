@@ -4,6 +4,11 @@
 https://github.com/ladaapp/lada
 ```
 
+komari 探针
+```
+https://www.nodeseek.com/jump?to=https%3A%2F%2Fgithub.com%2Fkomari-monitor%2Fkomari
+```
+
 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。
 ```
 https://github.com/likaia/nginxpulse
