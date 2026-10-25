@@ -145,6 +145,9 @@ https://github.com/zitadel/zitadel
 24.Sonatype Nexus Repository
 
 25.oauth2-proxy
+```
+https://github.com/oauth2-proxy/oauth2-proxy
+```
 26.cdn-auto-cert
 ```
 https://github.com/shuhanghang/cdn-auto-cert
