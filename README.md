@@ -193,4 +193,7 @@ https://github.com/Arize-ai/phoenix
 ```
 https://github.com/louislam/dockge
 ```
-
+36.Pake 一条命令把任意网页打包成桌面应用，支持 macOS、Windows 和 Linux
+```
+https://github.com/oauth2-proxy/oauth2-proxy
+```
