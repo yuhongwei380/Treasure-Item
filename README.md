@@ -197,3 +197,7 @@ https://github.com/louislam/dockge
 ```
 https://github.com/oauth2-proxy/oauth2-proxy
 ```
+37.smartctl_exporter
+```
+https://github.com/prometheus-community/smartctl_exporter
+```
