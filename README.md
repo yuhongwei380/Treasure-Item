@@ -148,7 +148,7 @@ https://github.com/zitadel/zitadel
 ```
 https://github.com/oauth2-proxy/oauth2-proxy
 ```
-26.cdn-auto-cert
+26.cdn-auto-cert CDN HTTPS 证书自动更新，支持阿里云、腾讯云、华为云
 ```
 https://github.com/shuhanghang/cdn-auto-cert
 ```
